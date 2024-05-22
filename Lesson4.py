@@ -41,7 +41,6 @@ def different_array3(size_array: int):
     str1 = [[0] * size_array for _ in range(size_array)]
 
     for i in range(size_array):
-
         for j in range(size_array//2 + 1):
             if i < size_array//2 + 1:
                 if j >= i:
