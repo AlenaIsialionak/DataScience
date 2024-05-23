@@ -53,7 +53,6 @@ def different_array3(size_array: int):
     for s in str1:
         print(s)
 
-
 print("****************")
 different_array3(5)
 
